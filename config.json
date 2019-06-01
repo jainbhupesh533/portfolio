@@ -1,0 +1,16 @@
+{
+	"theme": "dark",
+	"name": "Bhupesh Parakh",
+	"profilePhoto": "Untitled-3.jpg",
+	"resumeLink":"Profile (1).pdf",
+	"about": [
+		"Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, culpa. Placeat quis nobis totam maiores nulla explicabo inventore ex ipsum! Voluptatibus necessitatibus magni dignissimos earum facere pariatur illo dicta similique!"
+	],
+	"links": {
+		"github": "https://github.com/jainbhupesh533",
+		"linkedin": "https://www.linkedin.com/in/bhupesh-parakh-a86b64124/",
+		"medium": "",
+		"facebook": "https://www.facebook.com/profile.php?id=100007788554868",
+		"instagram": ""
+	}
+}
